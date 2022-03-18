@@ -1,4 +1,4 @@
-import '../class_example.dart';
+import '../../class_example.dart';
 
 void main() {
   // int number = 10;
