@@ -132,16 +132,16 @@ void main() {
   // };
   // print(myMap);
 
-  var mySet = {
-    "masum",
-    "rimon",
-    "razul",
-    "akkas",
-    "bappy",
-    "fahad",
-    for (int i = 0; i <= 10; i++) "E$i"
-  };
-  print(mySet);
+  // var mySet = {
+  //   "masum",
+  //   "rimon",
+  //   "razul",
+  //   "akkas",
+  //   "bappy",
+  //   "fahad",
+  //   for (int i = 0; i <= 10; i++) "E$i"
+  // };
+  // print(mySet);
 }
 
 
