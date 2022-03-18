@@ -124,13 +124,13 @@ void main() {
   // MyClass myClass = MyClass("Masum");
   // print(myClass.name);
 
-  // bool value = true;
-  // var myMap = {
-  //   "name": "Masum",
-  //   "age": 24,
-  //   "gender": value == true ? "male" : "female"
-  // };
-  // print(myMap);
+  bool value = true;
+  var myMap = {
+    "name": "Masum",
+    "age": 24,
+    "gender": value == true ? "male" : "female"
+  };
+  print(myMap);
 
   // var mySet = {
   //   "masum",
